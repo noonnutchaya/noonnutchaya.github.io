@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+.center{
+    color: darkslategray ;
+    text-align: center;
+}
+
+.littleHeader  {
+    font-size: 16px; 
+    margin: 12px 
+}
+
+.noon {
+    font-size: 30px;
+}
+
+.endCredit {
+    font-size: 10px;
+    margin: 12px 
+}
+
+.topicHeader{ 
+    font-size: 50px;
+    
+}
